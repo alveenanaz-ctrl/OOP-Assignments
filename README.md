@@ -12,7 +12,7 @@ The purpose of this repository is to practice and demonstrate core OOP concepts 
 
 - Degree Program: BS Software Engineering
 
-Contents Covered
+# Contents Covered
 - Objects and Classes
 - Constructors
 - Encapsulation
