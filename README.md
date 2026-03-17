@@ -18,6 +18,7 @@ The purpose of this repository is to practice and demonstrate core OOP concepts 
 - Encapsulation
 - Objects passing
 - Inheritance
+- Polymorphism
 
 # Author
 Alveena Naz
