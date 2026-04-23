@@ -20,6 +20,8 @@ The purpose of this repository is to practice and demonstrate core OOP concepts 
 - Inheritance
 - Polymorphism
 - Abstraction
+- Class Diagram
+- GUI in java
 
 # Author
 Alveena Naz
